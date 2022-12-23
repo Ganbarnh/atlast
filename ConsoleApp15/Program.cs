@@ -11,6 +11,7 @@ namespace ConsoleApp15
         static void Main(string[] args)
         {
             Console.WriteLine();
+            Console.WriteLine("Hello from dev");
         }
     }
 }
